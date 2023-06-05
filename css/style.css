@@ -1,0 +1,8 @@
+div{
+    width:500px;
+    height:500px;
+    border-radius: 50%;
+    background-image:url(./image/343229221_254314403649789_3873868659161524418_n.jpg);
+    background-size:cover;
+    border:10px solid black;
+}
